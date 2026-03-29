@@ -7,8 +7,8 @@ This folder contains the processed datasets used across notebooks 02–05.
 | File | Description | Used in |
 |------|-------------|---------|
 | `LSOA_Statistics.csv` | Unified dataset — 4,835 LSOAs × 16 features covering demographics, transport accessibility, competition, amenities, crime, and house prices | Notebooks 02, 03, 04 |
-| `lsoa_success_levels.csv` | Task 1 output — AHP weighted scores and success tier (Low / Medium / High / Very High) per LSOA | Notebook 05 |
-| `Predicted_Success.csv` | Task 2 output — predicted commercial rent per sq ft merged with success levels per LSOA | Notebook 05 |
+| `lsoa_success_levels.csv` | Task 1 output — AHP weighted scores and success tier (Low / Medium / High / Very High) per LSOA | Notebook 03 |
+| `Predicted_Success.csv` | Task 3 output — predicted commercial rent per sq ft merged with success levels per LSOA | Notebook 05 |
 
 ## What is not included
 
