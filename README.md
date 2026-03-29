@@ -133,4 +133,4 @@ Notebooks 02–05 can be run independently using the processed datasets in `data
 **Institution:** University of Greenwich — MSc Big Data & Business Intelligence  
 **Submitted:** September 2024
 
-Connect on [LinkedIn](https://www.linkedin.com/in/feruza-kachkinbayeva) <!-- update with your actual URL -->
+Connect on [LinkedIn](https://www.linkedin.com/in/feruza1997/) <!-- update with your actual URL -->
