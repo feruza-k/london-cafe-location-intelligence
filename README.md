@@ -84,9 +84,9 @@ Open any of these HTML files in your browser — no installation needed:
 
 | Map | Description |
 |-----|-------------|
-| [Café Success Levels](visualisations/london_cafe_success_map.html) | AHP-weighted success scores across all LSOAs |
-| [Predicted Rent Prices](visualisations/london_predicted_rent_map.html) | RF-predicted commercial rent per sq ft by LSOA |
-| [Success + Rent Combined](visualisations/london_cafe_success_rent_map.html) | Composite view for site selection decisions |
+| [Café Success Levels](https://feruza-k.github.io/london-cafe-location-intelligence/visualisations/london_cafe_success_map.html) | AHP-weighted success scores across all LSOAs |
+| [Predicted Rent Prices] (https://feruza-k.github.io/london-cafe-location-intelligence/visualisations/london_predicted_rent_map.html) | RF-predicted commercial rent per sq ft by LSOA |
+| [Success + Rent Combined](https://feruza-k.github.io/london-cafe-location-intelligence/visualisations/london_cafe_success_rent_map.html) | Composite view for site selection decisions |
 
 Click any LSOA polygon to see its name, success level, AHP score, and predicted rent.
 
